@@ -14,7 +14,7 @@ Uma demo no repl.it pode ser executada através [deste link](https://replit.com/
 
 <div align="center">
 
-</div>
-
-
 <img src="https://i.ibb.co/4KTSwf5/ants.gif" align="center" width="500" alt="Project icon">
+
+
+</div>
